@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+  <OutputType>Exe</OutputType>
+  <TargetFramework>net6.0</TargetFramework>
+  <RollForward>Major</RollForward>
+  <Nullable>enable</Nullable>
+  <ImplicitUsings>enable</ImplicitUsings>
+  <RootNamespace>RegistoUtentes</RootNamespace>
+  <AssemblyName>RegistoUtentes</AssemblyName>
+</PropertyGroup>
+</Project>

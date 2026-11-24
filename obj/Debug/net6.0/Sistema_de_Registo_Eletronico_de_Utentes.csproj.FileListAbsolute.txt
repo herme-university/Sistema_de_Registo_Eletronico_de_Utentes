@@ -1,0 +1,15 @@
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/bin/Debug/net6.0/RegistoUtentes
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/bin/Debug/net6.0/RegistoUtentes.deps.json
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/bin/Debug/net6.0/RegistoUtentes.runtimeconfig.json
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/bin/Debug/net6.0/RegistoUtentes.dll
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/bin/Debug/net6.0/RegistoUtentes.pdb
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/obj/Debug/net6.0/Sistema_de_Registo_Eletronico_de_Utentes.csproj.AssemblyReference.cache
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/obj/Debug/net6.0/Sistema_de_Registo_Eletronico_de_Utentes.GeneratedMSBuildEditorConfig.editorconfig
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/obj/Debug/net6.0/Sistema_de_Registo_Eletronico_de_Utentes.AssemblyInfoInputs.cache
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/obj/Debug/net6.0/Sistema_de_Registo_Eletronico_de_Utentes.AssemblyInfo.cs
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/obj/Debug/net6.0/Sistema_de_Registo_Eletronico_de_Utentes.csproj.CoreCompileInputs.cache
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/obj/Debug/net6.0/RegistoUtentes.dll
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/obj/Debug/net6.0/refint/RegistoUtentes.dll
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/obj/Debug/net6.0/RegistoUtentes.pdb
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/obj/Debug/net6.0/Sistema_de_Registo_Eletronico_de_Utentes.genruntimeconfig.cache
+/home/hermenegildo/Documents/School/4º/Sistema_de_Registo_Eletronico_de_Utentes/obj/Debug/net6.0/ref/RegistoUtentes.dll

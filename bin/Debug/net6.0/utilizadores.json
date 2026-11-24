@@ -1,0 +1,26 @@
+[
+  {
+    "Login": "admin",
+    "Nome": "Administrador",
+    "Nivel": "admin",
+    "PinHash": "03AC674216F3E15C761EE1A5E255F067953623C8B388B4459E13F978D7C846F4"
+  },
+  {
+    "Login": "recepcao",
+    "Nome": "Recepcionista",
+    "Nivel": "recepcao",
+    "PinHash": "0FFE1ABD1A08215353C233D6E009613E95EEC4253832A761AF28FF37AC5A150C"
+  },
+  {
+    "Login": "enfermeiro",
+    "Nome": "Enfermeiro",
+    "Nivel": "enfermeiro",
+    "PinHash": "EDEE29F882543B956620B26D0EE0E7E950399B1C4222F5DE05E06425B4C995E9"
+  },
+  {
+    "Login": "medico",
+    "Nome": "Dr. M\u00E9dico",
+    "Nivel": "medico",
+    "PinHash": "318AEE3FED8C9D040D35A7FC1FA776FB31303833AA2DE885354DDF3D44D8FB69"
+  }
+]
